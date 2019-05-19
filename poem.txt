@@ -6,6 +6,7 @@ Blue
 Yellow
 Red
 
+Recycle
 Ponny 
 These are the colors of the rainbow
 Adding indigo
